@@ -1,0 +1,11 @@
+div{
+    border: 1px;
+    border-style: solid;
+    border-color: rgba(121, 117, 117, 0.6);
+    width:320px;
+    padding: 10px;
+}
+
+button{
+    cursor: pointer;
+}

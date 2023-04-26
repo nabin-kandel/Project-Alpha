@@ -1,0 +1,33 @@
+.amazon-link{
+    color: rgb(0,113,113);
+
+}
+.title{
+    font-weight: bold;
+    font-size: 24px;
+}
+.price-stock{
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+}
+
+.Amazon-Cart-button{
+    background-color: rgb(225,216,20);
+    border: none;
+    height: 30px;
+    width: 110px;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+
+.Amazon-Buy-button{
+    background-color: rgb(225,164,28);
+    border-radius: 15px;
+    border: none;
+    height: 30px;
+    width: 110px;
+    cursor: pointer;
+  
+
+}

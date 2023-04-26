@@ -1,0 +1,11 @@
+.github-button{
+    background-color: rgb(46, 164, 79);
+    color: white;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+}

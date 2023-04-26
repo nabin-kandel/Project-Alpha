@@ -1,0 +1,26 @@
+#image-1{
+    width: 200px;
+    
+    object-fit: cover;
+    border-radius: 8px;
+    
+}
+
+#image-2{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    
+}
+
+#image-3{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    object-fit: cover;
+    
+}
+img{
+    margin-right: 30px;
+
+}
