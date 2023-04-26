@@ -13,8 +13,9 @@
         • Fast & Clean Code<br>
         • No need of CSS frameworks<br>
     </b>
-    <img src="grid-a.png">
-    <img src="grid-b.png">
+
+    <img src="grid-a.png" width="280px">
+    <img src="grid-b.png" width="280px">
     
 </body>
 </html>
