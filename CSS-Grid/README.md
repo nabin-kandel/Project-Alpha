@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+
+<html >
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,8 +15,8 @@
         • No need of CSS frameworks<br>
     </b>
 
-    <img src="display.png" width="280px">
-    <img src="grid.png" width="280px">
+    <img src="image/display.png" width="280px"><br>
+    <img src="image/grid.png" width="280px">
     
 </body>
 </html>
