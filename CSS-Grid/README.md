@@ -7,3 +7,13 @@
 
     <img src="image/display.png" width="280px"><br>
     <img src="image/grid.png" width="280px">
+
+
+
+    <b>Nested Layouts</b>
+<br>
+.Vertical layouts
+<br>
+.Horizontal layouts
+
+<img src="image/grid.png">
