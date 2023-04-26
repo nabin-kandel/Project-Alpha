@@ -7,6 +7,6 @@
     </b>
 <br>
 
-<img src="image/display.png" width="400px">
+<img src="image/display.png" width="400px" display="inline-block">
 
-<img src="image/grid.png" width="400px">
+<img src="image/grid.png" width="400px" display="inline-block">
