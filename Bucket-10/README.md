@@ -1,7 +1,7 @@
 <b>Nested Layouts</b>
 <br>
-.Vertical layouts
+.Vertical layouts🔴
 <br>
-.Horizontal layouts
+.Horizontal layouts🔵
 
 <img src="10.png">
