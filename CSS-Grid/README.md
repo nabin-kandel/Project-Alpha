@@ -8,14 +8,15 @@
 </head>
 <body>
 
+
     <b> • Two dimensional grid system<br>
         • CSS Grid Layout replaces float layout<br>
         • Fast & Clean Code<br>
         • No need of CSS frameworks<br>
     </b>
 
-    <img src="grid-a.png" width="280px">
-    <img src="grid-b.png" width="280px">
+    <img src="display.png" width="280px">
+    <img src="grid.png" width="280px">
     
 </body>
 </html>
