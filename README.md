@@ -1,5 +1,5 @@
 <br>
-<img src="Post-100/google.png">
+<img src="Post-100/google.png" width="680px">
 
 <img src="Post-100/facebook.png">
 <img src="Post-100/login.png">
