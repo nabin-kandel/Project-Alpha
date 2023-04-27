@@ -1,0 +1,61 @@
+.box{
+
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+    grid-gap:20px;
+}
+
+
+p{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.profile{
+
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.151);
+    width: 200px;
+}
+.profile-img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 12px;
+}
+
+.name{
+    font-weight: bold;
+    margin: 0px 0px 0px 8px;
+}
+
+
+
+.mutual{
+    display: grid;
+    grid-template-columns: 35px auto;
+    align-items: center;
+    margin: 6px;
+}
+
+.mutual-img{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}
+
+.mutual-frd{
+    font-size: 14px;
+    margin-left: 10px;
+   
+}
+
+button{
+    background-color: rgb(9, 120, 231);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 28px 10px 28px;
+    margin: 0px 0px 8px 8px;
+    font-size: 14px;
+    cursor: pointer;
+}
