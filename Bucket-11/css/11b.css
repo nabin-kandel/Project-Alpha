@@ -1,0 +1,22 @@
+.grid{
+
+    width: 400px;
+    display: grid;
+    grid-template-columns: 50px auto 75px;
+
+
+}
+
+.box1{
+background-color: lightblue;
+}
+
+.box2{
+background-color: lightpink;
+}
+
+
+.box3{
+    background-color: lightblue;
+
+}
