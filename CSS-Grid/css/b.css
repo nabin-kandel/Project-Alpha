@@ -1,7 +1,7 @@
 .container{
     background-color: #eee;
-    width: 700px;
-    margin: 70px 0 0 50px;
+    /* width: 700px; */
+    /* margin: 70px 0 0 50px; */
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -21,17 +21,25 @@
 
 .item1{
     background-color: lightcoral;
+    grid-area: 1/2;
 }
 .item2{
     background-color: yellow;
+    grid-area: 2/2;
+    /* grid-row: 2;
+    grid-column: 2; */
+
 }
 
 .item3{
     background-color: lightblue;
+    /* grid-area: 3/2; */
+   
 }
 
 .item4{
     background-color: yellowgreen;
+    /* grid-area: 3/1; */
 }
 
 .item5{
@@ -40,5 +48,6 @@
 
 .item6{
     background-color:tan;
+    grid-area: 1/1;
 }
 
