@@ -10,5 +10,3 @@
 <img src="image/display.png"  display="inline-block">
 
 <img src="image/grid.png"  display="inline-block">
-<br>
-<br>
