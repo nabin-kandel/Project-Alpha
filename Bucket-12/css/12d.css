@@ -1,0 +1,19 @@
+.con{
+    border: 1px solid;
+    height: 60px;
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.div1{
+    background-color: lightblue;
+  
+}
+
+.div2{
+    background-color: lightpink;
+
+}
