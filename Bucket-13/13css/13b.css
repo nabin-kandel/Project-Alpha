@@ -1,6 +1,5 @@
 .box{
     border: 1px solid;
-
     width: 280px;
     height: 60px;
     display: flex;
@@ -20,12 +19,18 @@
 .right{
     background-color: lightblue;
     width: 180px;
-
-
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
 }
 
-.item{
+.row2{
     background-color: black;
     color: white;
     font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    
 }
+
