@@ -21,16 +21,26 @@
     width: 180px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+   justify-content: center;
+    
    
 }
 
-.row2{
-    background-color: black;
-    color: white;
+.row2, .row1{
+    
     font-size: 20px;
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+
+    
     
 }
 
+.row2-item{
+    display: flex;
+    background-color: black;
+    color: white;
+
+   
+}
