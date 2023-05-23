@@ -1,0 +1,13 @@
+.bottom{
+    position: fixed;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    right: 20px;
+    bottom: 20px;
+
+}
+
+body{
+    height: 3000px;
+}
