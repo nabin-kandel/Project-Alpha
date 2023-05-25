@@ -13,7 +13,7 @@
 }
 
 .offer{
-    background-color: black;
+    background-color: rgb(152, 13, 13);
     color: white;
     padding: 6px 18px;
     position: absolute;
@@ -32,9 +32,9 @@
     justify-content: center;
     align-items: center;
     opacity: 0;
-    transition: opacity 0.15s;
+    transition: opacity 0.4s;
 }
-.cart:hover{
+.item:hover .cart{
     opacity: 1;
 }
 
@@ -45,6 +45,18 @@ button{
     font-weight: 500;
     cursor: pointer;
 
+}
+
+
+button:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    transition: 0.18s;
+
+}
+
+button:active{
+    background-color: rgba(240, 240, 240, 0.274);
 }
 
 
